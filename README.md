@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Milan+;Android+developer+from+Russia)](https://git.io/typing-svg)
 
 
-## Here are some tools and language that I use 
+## Here are some tools and languages that I use 
 ![Git](https://img.shields.io/badge/Git-Version%20Control-blue)
 | ![Kotlin](https://img.shields.io/badge/Kotlin-blue.svg) | ![Java](https://img.shields.io/badge/Java-orange) | ![MVVM](https://img.shields.io/badge/MVVM-Architecture-brightgreen) | ![Coroutine](https://img.shields.io/badge/Coroutines-blue.svg) | ![Android](https://img.shields.io/badge/Android-brightgreen) | ![Firebase](https://img.shields.io/badge/Firebase-Platform-yellow) | ![Room](https://img.shields.io/badge/Room-Database-brightgreen) | ![Gradle](https://img.shields.io/badge/Gradle-green)
 
