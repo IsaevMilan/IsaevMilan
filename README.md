@@ -5,7 +5,7 @@
 
 ## Here are some tools and language that I use 
 ![Git](https://img.shields.io/badge/Git-Version%20Control-blue)
-| ![Kotlin](https://img.shields.io/badge/Kotlin-1.5.31-blue.svg) | ![Java](https://img.shields.io/badge/Java-17-orange) | ![MVVM](https://img.shields.io/badge/MVVM-Architecture-brightgreen) | ![Coroutine](https://img.shields.io/badge/Coroutines-1.5.2-blue.svg) | ![Android](https://img.shields.io/badge/Android-11-brightgreen) | ![Firebase](https://img.shields.io/badge/Firebase-Platform-yellow) | ![Room](https://img.shields.io/badge/Room-Database-brightgreen) | ![Gradle](https://img.shields.io/badge/Gradle-7.0.2-green)
+| ![Kotlin](https://img.shields.io/badge/Kotlin-blue.svg) | ![Java](https://img.shields.io/badge/Java-orange) | ![MVVM](https://img.shields.io/badge/MVVM-Architecture-brightgreen) | ![Coroutine](https://img.shields.io/badge/Coroutines-blue.svg) | ![Android](https://img.shields.io/badge/Android-brightgreen) | ![Firebase](https://img.shields.io/badge/Firebase-Platform-yellow) | ![Room](https://img.shields.io/badge/Room-Database-brightgreen) | ![Gradle](https://img.shields.io/badge/Gradle-green)
 
 
 
