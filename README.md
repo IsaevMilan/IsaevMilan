@@ -3,6 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Milan+;Android+developer+from+Russia)](https://git.io/typing-svg)
 
 
+## Here are some tools and language that I use 
+![Git](https://img.shields.io/badge/Git-Version%20Control-blue)
+| ![Kotlin](https://img.shields.io/badge/Kotlin-1.5.31-blue.svg) | ![Java](https://img.shields.io/badge/Java-17-orange) | ![MVVM](https://img.shields.io/badge/MVVM-Architecture-brightgreen) | ![Coroutine](https://img.shields.io/badge/Coroutines-1.5.2-blue.svg) | ![Android](https://img.shields.io/badge/Android-11-brightgreen) | ![Firebase](https://img.shields.io/badge/Firebase-Platform-yellow) | ![Room](https://img.shields.io/badge/Room-Database-brightgreen) | ![Gradle](https://img.shields.io/badge/Gradle-7.0.2-green)
+
+
+
+
 <!--
 **IsaevMilan/IsaevMilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
