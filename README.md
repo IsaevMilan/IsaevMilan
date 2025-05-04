@@ -1,6 +1,6 @@
 ## Hi👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F793&center=true&vCenter=true&width=435&lines=Hey!+I'm+Milan+%F0%9F%91%8B;Android+Developer+from+Russia;Jetpack+Compose+Fan+%E2%9C%A8;Always+learning+new+tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F793&center=true&vCenter=true&width=435&lines=Hey!+I'm+Milan+%F0%9F%91%8B;Android+Developer;Always+learning+new+tech)](https://git.io/typing-svg)
 
 
 
